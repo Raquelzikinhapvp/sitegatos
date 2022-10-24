@@ -1,0 +1,35 @@
+header {
+  background: #f7a541;
+}
+body {
+  background-color: #ffffdd;
+}
+.font {
+  font-size: 30px;
+  color: black;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 13%;
+}
+nav{
+  position: absolute;
+  top: 191px;
+  right: 250px;
+}
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+nav a {
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+}
+footer {
+  text-align: center;
+  background: url("boo.jfif")center;
+}
